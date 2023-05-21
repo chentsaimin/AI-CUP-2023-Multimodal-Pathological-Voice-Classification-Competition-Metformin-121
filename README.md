@@ -9,4 +9,6 @@ Training and validation code: AI-CUP-2023-Multimodal-Pathological-Voice-Classifi
 
 Model, weights and logs: double_separate
 
+Output predictions: submission05182.csv
+
 Final report: AI CUP 2023多模態病理嗓音分類競賽報告_TEAM_3037.pdf
