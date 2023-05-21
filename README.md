@@ -3,6 +3,8 @@ Team: Metformin-121
 
 Requirements: requirements.txt
 
+Input files: Training Dataset.zip, Public Testing Dataset.zip, Private Testing Dataset.zip
+
 Training and validation code: AI-CUP-2023-Multimodal-Pathological-Voice-Classification-Competition-Metformin-121.ipynb
 
 Model, weights and logs: double_separate
